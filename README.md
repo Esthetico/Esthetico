@@ -41,4 +41,5 @@ I'm a computer science major and game development enthusiast. I spend most of my
 <br/>
 <!--Displaying visitor count-->
 #### Profile visits
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Esthetico.Esthetico)
