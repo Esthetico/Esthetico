@@ -42,7 +42,7 @@ I'm a computer science major and game development enthusiast. I spend most of my
 <br/>
 
 ![Snake animation](https://github.com/Esthetico/Esthetico/blob/output/github-contribution-grid-snake.svg)
-  
+
 <!--Displaying visitor count-->
 #### Profile visits
 
