@@ -39,6 +39,9 @@ I'm a computer science major and game development enthusiast. I spend most of my
 </div>
 
 <br/>
+<br/>
+<br/>
+![Snake animation](https://github.com/venanciotayna/venanciotayna/blob/output/github-contribution-grid-snake.svg)
   
 <!--Displaying visitor count-->
 #### Profile visits
