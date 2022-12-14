@@ -4,18 +4,18 @@
 I'm a computer science major and game development enthusiast. I spend most of my time coding personal outsatanding projects. 
 
 <!--Contacts and Socials-->
-:mailbox : Reach out!
+:mailbox: Reach out!
 
 [![Mail Badge](https://img.shields.io/badge/-@Mr.Unicorn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mister___unicorn) [![Linkedin Badge](https://img.shields.io/badge/-Arthur-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-balibuno-737106131/) [![Mail Badge](https://img.shields.io/badge/-Mr.Unicorn-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elesthetico@gmail.com)
 
 <!--Self introductory fun facts and hobbies-->
 ### Get to know me:
-- :book : I'm currently studying at University of the People
-- :computer : I am currently learning Android delovepment with kotlin
-- :tv : favourite series: Mr. Robot, Sherlock Holmes, The Mentalist
-- :iphone : I play a lot of FPS mobile games
-- :soccer : I'm a massive footbal fan
-- :mega : A fun fact about me is that I speak 8 languages among which French (Mother tongue) and both English and Mandarin Chinese (Fluently)
+- :book: I'm currently studying at University of the People
+- :computer: I am currently learning Android delovepment with kotlin
+- :tv: favourite series: Mr. Robot, Sherlock Holmes, The Mentalist
+- :iphone: I play a lot of FPS mobile games
+- :soccer: I'm a massive footbal fan
+- :mega: A fun fact about me is that I speak 8 languages among which French (Mother tongue) and both English and Mandarin Chinese (Fluently)
 
 <!--Languages and technologies-->
 ### Languages and Technologies
@@ -39,12 +39,6 @@ I'm a computer science major and game development enthusiast. I spend most of my
 </div>
 
 <br/>
-<br/>
-<br/>
-
-![Snake animation](https://github.com/Esthetico/Esthetico/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-
+<!--Displaying visitor count-->
 #### Profile visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Esthetico.Esthetico)
