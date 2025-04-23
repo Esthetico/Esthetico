@@ -44,6 +44,13 @@ I'm a computer science major and game development enthusiast. I spend most of my
 ![Snake animation](https://github.com/Esthetico/Esthetico/blob/output/github-contribution-grid-snake.svg)
 
 <!--Displaying visitor count-->
-#### Profile visits
+![Profile Views](https://komarev.com/ghpvc/?username=Esthetico&label=Profile+Views&color=green&style=flat)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Esthetico.Esthetico)
+<!--Tetris  fo entertaining visitors-->
+🎮 **Play Tetris Below!**
+
+[Click here to play Tetris!](https://Esthetico.github.io/tetris)
+
+![Tetris Game](https://img.shields.io/badge/Play-Tetris-green?style=for-the-badge)
+
+🌟 **Instructions**: Use arrow keys to move and rotate the Tetris pieces. Have fun!
