@@ -17,40 +17,26 @@ I'm a computer science major and game development enthusiast. I spend most of my
 - :soccer: I'm a massive footbal fan
 - :mega: A fun fact about me is that I speak 8 languages among which French (Mother tongue) and both English and Mandarin Chinese (Fluently)
 
-<!--Languages and technologies-->
-### Languages and Technologies
-[![VS Code](https://img.shields.io/badge/-VsCode-0e76a8?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0e76a8)](#)
+<!-- my Stats-->
+#### :fire: My Stats :
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Estheticoj&theme=dark&background=000000)](https://git.io/streak-stats) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estheticoj&layout=compact&theme=light)](https://github.com/Esthetico/github-readme-stats) -->
 
-<br/>
+<a href="https://github.com/Esthetico">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esthetico&theme=light&count_private=true&layout=compact" width="205" alt="Esthetico's most used languages" />
+</a>
+<a href="https://github.com/Esthetico">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Esthetico&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Esthetico's github stats"/>
+</a>
 
-<img align="left"  width="40" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-
-<br/>
-<br/>
-<br/>
-
-<!--Profile Activity Statistics-->
-#### Profile Stats
+#### :hammer_and_wrench: Languages and Tools :
 <div>
-  <a href="https://github.com/Esthetico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esthetico&show&hide=prs,contribs,_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esthetico&layout=compact&langs_count=6&theme=chartreuse-dark"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-<br/>
-<br/>
-
-![Snake animation](https://github.com/Esthetico/Esthetico/blob/output/github-contribution-grid-snake.svg)
-
-<!--Displaying visitor count-->
-![Profile Views](https://komarev.com/ghpvc/?username=Esthetico&label=Profile+Views&color=green&style=flat)
-
-<!--Tetris  fo entertaining visitors-->
-🎮 **Play Tetris Below!**
-
-[Click here to play Tetris!](https://Esthetico.github.io/tetris)
-
-![Tetris Game](https://img.shields.io/badge/Play-Tetris-green?style=for-the-badge)
-
-🌟 **Instructions**: Use arrow keys to move and rotate the Tetris pieces. Have fun!
+<!--- #### :writing_hand: Blog Posts :
+**WebSite:** [Sudheerjonna.com](https://sudheerjonna.com) -->
